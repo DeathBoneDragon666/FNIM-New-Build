@@ -18,3 +18,7 @@ export/*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+.vs/FNIM New Build/v17/Browse.VC.opendb
+.vs/FNIM New Build/v17/Browse.VC.db-wal
+.vs/FNIM New Build/v17/Browse.VC.db-shm
+.vs/FNIM New Build/v17/Browse.VC.db
